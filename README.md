@@ -2,6 +2,10 @@
 
 An end-to-end sales analytics project using Python, SQL, and Power BI to clean, analyze, and visualize Superstore sales data.
 
+## Dashboard Preview
+
+![Sales Performance Dashboard showing a Power BI style dashboard layout with KPI cards, charts, filters, and a key insights panel. Header text reads Sales Performance Dashboard. Top KPI cards read Total Sales 2.30M, Total Profit 286.40K, Total Orders 5K, Profit Margin 12.47%. Left pane shows filter controls for Year, Region, and Category and a key insights box. Main area contains a line chart titled Monthly Sales Trend, a horizontal bar chart Sales by Region showing West 0.73M, East 0.68M, Central 0.50M, South 0.39M, a donut chart Sales by Category with percentages, a bar chart Profit by Category showing Technology 145K, Office Supplies 122K, Furniture 18K, and a Top 10 Customers bar chart with the highest customer Sean Miller 25K. The design has a blue header, white metric cards, and rounded content panels; tone is professional and informational.](report/dashboard-preview.png)
+
 ## Project Overview
 
 This project analyzes sales performance across regions, categories, customers, products, and time periods.
